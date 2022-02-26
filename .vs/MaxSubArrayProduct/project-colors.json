@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "93643a0d-e40c-4630-8277-0a0cac457acf": {
+      "ProjectGuid": "93643a0d-e40c-4630-8277-0a0cac457acf",
+      "DisplayName": "MaxSubArrayProduct",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
