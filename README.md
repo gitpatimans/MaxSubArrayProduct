@@ -1,8 +1,6 @@
 # MaxSubArrayProduct
 **Problem Statement** -
-Out of 'N' programming languagesUser knew 'M' programming languages .
-Here, Input would be Array of size n representing values 1 if user knew the programming language;
--1 if user dont know the programming language.
+Out of 'N' programming languagesUser knew 'M' programming languages. Here, Input would be Array of size n representing values 1 if user knew the programming language; -1 if user dont know the programming language.
 
 Sample Input 
 N = 6;
